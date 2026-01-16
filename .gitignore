@@ -3,3 +3,5 @@ __pycache__
 *.pkl
 *.csv
 node_modules
+
+.DS_Store
